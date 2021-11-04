@@ -1,0 +1,50 @@
+body{
+    
+}
+.first-container{
+    
+    background-image: url("images/image2.png");
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to right, 50%black , 50% white);
+
+    height: 350px;
+  
+}
+
+.home{
+    display: flex;
+}
+
+    nav {
+
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 10px 0;
+        margin-right: 0%;
+     }
+  #navbar{
+    float: right;
+    
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    
+}
+nav>ul>li>a {
+    padding: 15px;
+    margin-right: 0;
+    text-decoration: none;
+    display: block;
+
+    }
+
+    .first-container > .home >h5{color:#F19201
+    }
+
+    .premium{
+        color: white;
+        display: flex;
+    }
+
+  
