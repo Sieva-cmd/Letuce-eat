@@ -13,7 +13,7 @@ Either a computer, phone ,or tablet
 An access to internet
 
 ## Installation
-Click on the link below to view the website 
+Click on the link below to view the website  https://sieva-cmd.github.io/Letuce-eat/
 
 ## Technology used 
 HTML - used to build the structure of the website
