@@ -99,6 +99,26 @@ nav>ul>li>a {
         background-color: #F19201;
         border-radius: 20px;
     }
+    .third-container{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+        background: linear-gradient(90deg , white 50%,black 50%);
+    }
 
+    .third-container #left{
+        width: 50%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .third-container #right{
+        width: 50%;
+
+        color: white;
+        height: 300px;
+        margin-left: 0;
+        margin-top: 0;
+    }
     
   
