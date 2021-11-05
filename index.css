@@ -40,9 +40,16 @@ nav>ul>li>a {
     display: block;
 
     }
+    nav>ul>li> #home{
+        color: #F19201;
+    }
 
 
     .first-container > .home >h5{color:#F19201
+    }
+    .first-container button{
+        color: white;
+        background-color: #F19201;
     }
 
     .premium{
@@ -60,6 +67,11 @@ nav>ul>li>a {
         margin-top: 0%;
         
     }
+.second-container > #center > h3{
+    color: #F19201;
+}
+
+
     #row{
         display: flex;
         justify-content: space-between;
@@ -129,6 +141,9 @@ nav>ul>li>a {
         justify-content: space-between;
         margin: 20px;
         margin-top: 0%;
+    }
+    .fourth-container > #menu >h3{
+        color: #F19201;
     }
     .menu{
         display: flex;
