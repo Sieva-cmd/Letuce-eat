@@ -128,6 +128,77 @@ nav>ul>li>a {
         margin: 20px;
         margin-top: 0%;
     }
+    .menu{
+        display: flex;
+        justify-content: space-between;
+        color: black;  
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+
+
+    }
+    .menu-two{
+        display: flex;
+        justify-content: space-between;
+        color: black;  
+        width: 100%;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+
+    }
+    #chapati{
+        border: 1px solid white;
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        text-align: center;
+        margin-right: 20px;
+    }
+
+    #chapati img{
+        float: left;
+      
+    }
         
-    
+    #beef{
+        border: 1px solid white;
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    #beef img{
+        float: left;
+      
+    }
+    #chicken{
+        border: 1px solid white;
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        text-align: center;
+        
+    }
+
+    #chicken img{
+        float: left;
+      
+    }
+    #rice{
+        border: 1px solid white;
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        text-align:center;
+        margin-left: 20px;
+    }
+
+    #rice img{
+        float: left;
+      
+    }
   
