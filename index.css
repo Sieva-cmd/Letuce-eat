@@ -15,6 +15,10 @@ body{
 
 .home{
     display: flex;
+    margin-top: 0;
+    margin-left: 40px;
+    margin-right: 40px;
+    
 }
 
     nav {
@@ -26,6 +30,7 @@ body{
      }
   #navbar{
     float: right;
+   
     
 }
 nav li{
@@ -40,7 +45,19 @@ nav>ul>li>a {
     display: block;
 
     }
-     #home{
+    nav > ul > #home >a{
+        color: #F19201;
+    }
+    nav > ul > #about >a{
+        color: white;
+    }
+    nav > ul > #services>a{
+        color: white;
+    }
+    nav > ul > #contacts >a{
+        color: white;
+    }
+    nav > ul > #moringa >a{
         color: #F19201;
     }
 
