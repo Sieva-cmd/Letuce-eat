@@ -1,5 +1,6 @@
 body{
     background-color: lightgrey;
+    font-family: "roboto";
 }
 .first-container{
     
@@ -200,5 +201,13 @@ nav>ul>li>a {
     #rice img{
         float: left;
       
+    }
+    footer{
+        width: 100%;
+        text-align: center;
+        background-image: url("images/image8.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
     }
   
