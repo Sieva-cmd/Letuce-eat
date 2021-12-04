@@ -20,7 +20,7 @@ HTML - used to build the structure of the website
 Css -used to style the pages
 
 ## Licence 
-MThe MIT License ()
+ MIT License ()
 
 Copyright (c) [2021] [Sieva Lucia]
 
